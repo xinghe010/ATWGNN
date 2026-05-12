@@ -1,8 +1,0 @@
-torch>=1.10
-torch-geometric>=2.0
-torch-scatter
-networkx
-matplotlib
-numpy
-scikit-learn
-lark
