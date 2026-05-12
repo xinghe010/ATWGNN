@@ -189,19 +189,6 @@ To switch between the simplified and the original graph representation, replace 
 | ATWGNNS<sub>T−</sub> | S-DAGs | attention only, no term-walk |
 | **ATWGNNS** | **S-DAGs** | **full model** |
 
-## Citation
-
-If you find this work useful, please cite:
-
-```bibtex
-@article{he2025atwgnns,
-  title   = {ATWGNNS: Graph simplified representation and learning of logical formula for premise selection},
-  author  = {He, Xingxing and Zhao, Zhongxu and Lan, Yongqi and Li, Yingfang and Zou, Li and Mart{\'i}nez, Luis and Li, Tianrui},
-  journal = {Artificial Intelligence},
-  year    = {2025}
-}
-```
-
 ## Contact
 
 Issues and pull requests are welcome. For paper-related questions, please contact the corresponding author at `trli@swjtu.edu.cn`.
